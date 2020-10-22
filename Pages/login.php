@@ -68,25 +68,27 @@ function login()
 <html>
 
 <head>
-    <title>Registration system PHP and MySQL</title>
-    <link rel="stylesheet" type="text/css" href="../css/StyleLogin.css">
+    <title>Log In</title>
+    <link rel="stylesheet" type="text/css" href="css/StyleLogin.css">
 </head>
 
 <body>
+<h1>Alfa news</h1>
+<div id="FormContainer">
 <form method="post" action="" id="login">
     <h2>Login</h2>
     <div class="input-group">
-        <label>Username</label>
-        <input type="text" name="username">
+        <input type="text" name="username" placeholder="Username">
     </div>
     <div class="input-group">
-        <label>Password</label>
-        <input type="password" name="password">
+        <input type="password" name="password" placeholder="Password">
     </div>
+    <br>
     <div class="input-group">
-        <button type="submit" class="btn" name="login_btn">Login</button>
+        <button type="submit" class="btn" name="login_btn">Inloggen</button>
     </div>
 </form>
+</div>
 </body>
 
 </html>

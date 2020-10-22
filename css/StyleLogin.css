@@ -1,0 +1,13 @@
+h1{
+    margin-left: 45%;
+    margin-top: 15%;
+}
+#FormContainer{
+    border: solid black 2px;
+    padding: 1%;
+    width: 15%;
+    margin-left: 40%;
+}
+Form{
+    text-align: center;
+}
