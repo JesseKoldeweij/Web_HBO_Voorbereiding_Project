@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Videobox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -54,6 +54,7 @@
       <workItem from="1604565496966" duration="3953000" />
       <workItem from="1604659660964" duration="3744000" />
       <workItem from="1605260194917" duration="1637000" />
+      <workItem from="1606381626881" duration="433000" />
     </task>
     <servers />
   </component>
@@ -69,10 +70,11 @@
     </state>
     <state x="-1234" y="217" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605265722747" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603352493157" />
-    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1604567233067">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="2355" y="424" key="NewPhpFileDialog" timestamp="1606382053573">
+      <screen x="1600" y="0" width="1920" height="1040" />
     </state>
     <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1604567233067" />
+    <state x="2355" y="424" key="NewPhpFileDialog/0.0.1600.860/1600.0.1920.1040@1600.0.1920.1040" timestamp="1606382053573" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1603353071558">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
