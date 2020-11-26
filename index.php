@@ -4,6 +4,7 @@ session_start();
 require_once("Dbconfig.php");
 require_once("Pages/logout.php");
 require_once("Pages/check.php");
+require_once("Pages/uploadPost.php");
 
 $page = 'login';
 

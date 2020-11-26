@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85b62833-c931-4b23-8eff-fedce2eecd3f" name="Default Changelist" comment="" />
+    <list default="true" id="85b62833-c931-4b23-8eff-fedce2eecd3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/uploadPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/Annotation 2020-01-31 091545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/adventure-asphalt-autumn-614484.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/asphalt-auto-automobile-170811.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +19,22 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jDxTVdfJclQKGNpJViB7OHJbVa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Videobox" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -32,22 +50,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603352471369</updated>
-      <workItem from="1603352472442" duration="7594000" />
+      <workItem from="1603352472442" duration="8749000" />
+      <workItem from="1604565496966" duration="3953000" />
+      <workItem from="1604659660964" duration="3744000" />
+      <workItem from="1605260194917" duration="1637000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1603352493157">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1234" y="217" key="FileChooserDialogImpl" timestamp="1605265722747">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
+    <state x="-1234" y="217" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1605265722747" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603352493157" />
-    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1603355568565">
+    <state x="604" y="340" key="NewPhpFileDialog" timestamp="1604567233067">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603355568565" />
+    <state x="604" y="340" key="NewPhpFileDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1604567233067" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1603353071558">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
